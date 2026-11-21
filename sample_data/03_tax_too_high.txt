@@ -1,0 +1,8 @@
+ELM STREET HARDWARE
+11/12/2026
+HAMMER 16OZ            14.99
+NAILS BOX               5.49
+TAPE MEASURE 25FT       9.99
+SUBTOTAL               30.47
+SALES TAX               3.05
+TOTAL                  33.52

@@ -1,0 +1,11 @@
+BISTRO 12
+Table 7   Guests 2   11/13/2026
+BURGER                 15.00
+GARDEN SALAD           12.00
+FRIES                   5.00
+2 SODA @ 2.50           5.00
+SUBTOTAL               37.00
+TAX                     3.05
+SERVICE CHARGE 18%      6.66
+TIP                     7.00
+TOTAL                  53.71

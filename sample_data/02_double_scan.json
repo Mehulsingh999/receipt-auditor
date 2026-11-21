@@ -1,0 +1,36 @@
+{
+  "merchant": "Main St Pharmacy",
+  "date": "2026-11-15",
+  "items": [
+    {
+      "description": "TOOTHPASTE MINT",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 4.99
+    },
+    {
+      "description": "SHAMPOO 12OZ",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 7.49
+    },
+    {
+      "description": "SHAMPOO 12OZ",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 7.49
+    },
+    {
+      "description": "BATTERIES AA 4PK",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 6.99
+    }
+  ],
+  "discounts": 0,
+  "subtotal": 26.96,
+  "tax": 2.22,
+  "service_charge": 0,
+  "tip": 0,
+  "total": 29.18
+}

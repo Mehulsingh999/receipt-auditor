@@ -1,0 +1,30 @@
+{
+  "merchant": "Elm Street Hardware",
+  "date": "2026-11-12",
+  "items": [
+    {
+      "description": "HAMMER 16OZ",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 14.99
+    },
+    {
+      "description": "NAILS BOX",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 5.49
+    },
+    {
+      "description": "TAPE MEASURE 25FT",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 9.99
+    }
+  ],
+  "discounts": 0,
+  "subtotal": 30.47,
+  "tax": 3.05,
+  "service_charge": 0,
+  "tip": 0,
+  "total": 33.52
+}

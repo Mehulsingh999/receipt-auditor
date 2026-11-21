@@ -1,0 +1,10 @@
+CORNER MARKET
+Richardson, TX   11/14/2026
+MILK 1 GAL              3.49
+WHITE BREAD             2.99
+BANANAS 3 @ 0.25        0.75
+EGGS 12CT               4.19
+SUBTOTAL               11.42
+TAX                     0.00
+TOTAL                  11.42
+VISA ****           11.42

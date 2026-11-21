@@ -1,0 +1,8 @@
+LAKESIDE CAFE
+11/16/2026 09:05
+2 LATTE @ 4.75          9.50
+CROISSANT               3.25
+BLUEBERRY MUFFIN        2.95
+SUBTOTAL               15.70
+TAX                     1.30
+TOTAL                  18.00

@@ -1,0 +1,36 @@
+{
+  "merchant": "Bistro 12",
+  "date": "2026-11-13",
+  "items": [
+    {
+      "description": "BURGER",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 15.0
+    },
+    {
+      "description": "GARDEN SALAD",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 12.0
+    },
+    {
+      "description": "FRIES",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 5.0
+    },
+    {
+      "description": "SODA",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "line_total": 5.0
+    }
+  ],
+  "discounts": 0,
+  "subtotal": 37.0,
+  "tax": 3.05,
+  "service_charge": 6.66,
+  "tip": 7.0,
+  "total": 53.71
+}

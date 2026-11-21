@@ -1,0 +1,24 @@
+{
+  "merchant": "Fresh Foods Market",
+  "date": "2026-11-17",
+  "items": [
+    {
+      "description": "CHICKEN BREAST",
+      "quantity": 2,
+      "unit_price": 3.99,
+      "line_total": 8.98
+    },
+    {
+      "description": "JASMINE RICE 2LB",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 4.49
+    }
+  ],
+  "discounts": 1.0,
+  "subtotal": 12.47,
+  "tax": 0.0,
+  "service_charge": 0,
+  "tip": 0,
+  "total": 12.47
+}

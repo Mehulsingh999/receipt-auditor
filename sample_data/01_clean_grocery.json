@@ -1,0 +1,36 @@
+{
+  "merchant": "Corner Market",
+  "date": "2026-11-14",
+  "items": [
+    {
+      "description": "MILK 1 GAL",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 3.49
+    },
+    {
+      "description": "WHITE BREAD",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 2.99
+    },
+    {
+      "description": "BANANAS",
+      "quantity": 3,
+      "unit_price": 0.25,
+      "line_total": 0.75
+    },
+    {
+      "description": "EGGS 12CT",
+      "quantity": 1,
+      "unit_price": null,
+      "line_total": 4.19
+    }
+  ],
+  "discounts": 0,
+  "subtotal": 11.42,
+  "tax": 0.0,
+  "service_charge": 0,
+  "tip": 0,
+  "total": 11.42
+}
